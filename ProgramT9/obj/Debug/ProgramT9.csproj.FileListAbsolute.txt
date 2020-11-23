@@ -1,0 +1,10 @@
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\obj\Debug\ProgramT9.csprojAssemblyReference.cache
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\obj\Debug\ProgramT9.Form1.resources
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\obj\Debug\ProgramT9.Properties.Resources.resources
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\obj\Debug\ProgramT9.csproj.GenerateResource.cache
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\obj\Debug\ProgramT9.csproj.CoreCompileInputs.cache
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\bin\Debug\ProgramT9.exe.config
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\bin\Debug\ProgramT9.exe
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\bin\Debug\ProgramT9.pdb
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\obj\Debug\ProgramT9.exe
+E:\DataDellN5050\delcross\ProgramT9_Fadel\ProgramT9\ProgramT9\obj\Debug\ProgramT9.pdb
