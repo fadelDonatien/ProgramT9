@@ -1,0 +1,11 @@
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProjectT9UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProjectT9UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProjectT9UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProjectT9UnitTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProjectT9UnitTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProjectT9UnitTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProjectT9UnitTest\bin\Debug\ProjectT9UnitTest.dll
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProjectT9UnitTest\Debug\ProjectT9UnitTest.csproj.CoreCompileInputs.cache
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProjectT9UnitTest\Debug\ProjectT9UnitTest.csproj.CopyComplete
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProjectT9UnitTest\Debug\ProjectT9UnitTest.dll
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProjectT9UnitTest\Debug\ProjectT9UnitTest.csprojAssemblyReference.cache

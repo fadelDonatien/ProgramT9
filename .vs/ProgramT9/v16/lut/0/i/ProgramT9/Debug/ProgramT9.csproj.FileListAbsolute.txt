@@ -1,0 +1,11 @@
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProgramT9.exe.config
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProgramT9.exe
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProgramT9\Debug\ProgramT9.csprojAssemblyReference.cache
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProgramT9\Debug\ProgramT9.Form1.resources
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProgramT9\Debug\ProgramT9.Properties.Resources.resources
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProgramT9\Debug\ProgramT9.csproj.GenerateResource.cache
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProgramT9\Debug\ProgramT9.csproj.CoreCompileInputs.cache
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProgramT9\Debug\ProgramT9.csproj.CopyComplete
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\i\ProgramT9\Debug\ProgramT9.exe
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProgramT9\bin\Debug\ProgramT9.exe.config
+E:\DataDellN5050\delcross\ProgramT9Git\ProgramT9\.vs\ProgramT9\v16\lut\0\b\ProgramT9\bin\Debug\ProgramT9.exe
